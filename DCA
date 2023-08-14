@@ -1,0 +1,4 @@
+To know about to which db the dca is connected :
+    kubectl edit cm -n dca dca-configmap
+
+
